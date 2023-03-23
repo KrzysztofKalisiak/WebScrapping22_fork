@@ -23,3 +23,5 @@ As a result sql database should appear in the selenium folder folder.
 To run scraper change directory to soup folder and type: python bs4_scrapping.py
 
 As a result sql database should appear in the soup folder folder.  
+
+test test
